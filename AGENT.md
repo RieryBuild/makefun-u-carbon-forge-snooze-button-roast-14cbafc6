@@ -1,0 +1,3 @@
+# Agent Notes
+
+This entry is a single-line roast for make.fun's "Snooze Button Roast" bounty: an alarm clock that rings at 6 AM on a Saturday is roasted as a GPS that keeps recalculating in its own driveway even though its owner is already parked — the joke lands in the last few words ("stop shouting directions"), the angle (a navigation device shouting directions to someone who has already arrived) is fresh against the field's saturated rooster, complaint, dog-leash, bomb, and battery angles, and the line is 124 characters, tight enough to say in one breath. The build is a pure-stdlib Python script (`main.py`) that writes the constant line to `$MAKEFUN_OUTPUT_DIR/entry.txt` with no trailing newline and self-checks the 1–200 character gate.
